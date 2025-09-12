@@ -28,13 +28,6 @@ Your Choices
 Changes to This Policy
 - If we make material changes to this policy, we will update the date above and include the revised policy in the app and on our website.
 
-Contact Us
-If you have questions about this Privacy Policy, contact us at:
-
-Email: support@yourdomain.com
 
 Links
 - Terms of Use (Apple’s Standard EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-Hosting
-To meet App Store requirements, host this policy at a public URL (e.g., https://yourdomain.com/privacy) and include that link in App Store Connect and inside the app.
